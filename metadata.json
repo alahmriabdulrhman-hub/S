@@ -1,0 +1,7 @@
+{
+  "name": "Fleet Cloud - Fleet Management System",
+  "description": "A comprehensive transportation management platform for drivers and administrators, featuring real-time trip tracking, driver analytics, and fleet management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
