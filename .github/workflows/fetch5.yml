@@ -1,0 +1,25 @@
+name: fetch-hourly-7y
+on:
+  push:
+    branches: [crypto-data]
+    paths: [fetch5.py, .github/workflows/fetch5.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: crypto-data }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python fetch5.py | tee fetch5.log
+      - run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add h1 fetch5.log
+          git commit -m "بيانات الساعة لعملات أ5 (7 سنوات)" || echo "no changes"
+          git pull --rebase origin crypto-data || true
+          git push origin crypto-data
