@@ -1,0 +1,9 @@
+matched 140 of 219
+AAVEUSDT list fail <urlopen error _ssl.c:999: The handshake operation timed out>
+ACXUSDT list fail <urlopen error [Errno 104] Connection reset by peer>
+ATHUSDT list fail <urlopen error [Errno 104] Connection reset by peer>
+AGTUSDT 43 11894
+ALPHAUSDT list fail <urlopen error [Errno 104] Connection reset by peer>
+ALTUSDT list fail <urlopen error [Errno 104] Connection reset by peer>
+ANKRUSDT list fail <urlopen error [Errno 104] Connection reset by peer>
+APEUSDT list fail <urlopen error [Errno 104] Connection reset by peer>
