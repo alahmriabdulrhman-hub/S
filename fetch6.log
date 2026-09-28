@@ -1,0 +1,7 @@
+https://api.llama.fi/emissions HTTP Error 402: Payment Required 0
+https://defillama-datasets.llama.fi/emissionsProtocolsList 200 4352
+https://defillama-datasets.llama.fi/emissionsIndex 200 22264702
+https://api.llama.fi/emission/arbitrum HTTP Error 402: Payment Required 0
+https://defillama-datasets.llama.fi/emissions/arbitrum 200 821667
+list from https://defillama-datasets.llama.fi/emissionsProtocolsList 372
+protocol files: 372 of 372
