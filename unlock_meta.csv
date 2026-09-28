@@ -1,0 +1,373 @@
+slug,name,gecko,n_events,n_pts
+re,Re,re,48,1462
+filecoin,Filecoin,filecoin,5,13150
+smardex-ecosystem,SMARDEX Ecosystem,,13,3655
+wombex-finance,Wombex Finance,wombex,12,2924
+looksrare,LooksRare,looksrare,11,902
+hypha,Hypha,gogopool,48,1462
+altlayer,AltLayer,altlayer,44,1432
+lista-dao,Lista DAO,lista,36,7301
+jpegd,JPEG'd,jpeg-d-2,2,915
+near-protocol,NEAR Protocol,near,2,2352
+maverick-protocol,Maverick Protocol,maverick-protocol,121,3201
+fantom,Fantom,fantom,10,3655
+delysium,Delysium,delysium,80,1462
+magpie-ecosystem,Magpie Ecosystem,,1,1463
+myshell,MyShell,myshell,3,1827
+initia,Initia,initia,45,7306
+cheelee,Cheelee,cheelee,72,2193
+polyhedra-network,Polyhedra Network,polyhedra-network,2,2193
+synthetix,Synthetix,havven,5,3023
+chainlink,Chainlink,chainlink,126,3200
+blast-l2,Blast L2,blast,3,1462
+thala,Thala,thala,783,5476
+sosovalue,SoSoValue,sosovalue,10,1827
+humanity,Humanity,humanity,49,1493
+equilibre,Equilibre,equilibre,260,1822
+sky,Sky,sky,0,740
+topaz,Topaz,topaz,1,131
+gensyn,Gensyn,gensyn,2,1097
+flashstake,Flashstake,flash-stake,2,733
+ethereum,Ethereum,,278,4080
+legacy-network,Legacy Network,legacy-token,4,3652
+synfutures,SynFutures,synfutures,2,1462
+swell,Swell,swell-network,2,1462
+billions-network,Billions Network,billions-network,2,1462
+sign,Sign,sign-global,38,1847
+dogecoin,Dogecoin,dogecoin,7,8682
+solana,Solana,solana,59,4122
+level-finance,Level Finance,level,14,1597
+auki,Auki,,2,2616
+dolomite,Dolomite,dolomite,2,1462
+opinion,OPINION,opinion,51,1097
+aster,Aster,aster-2,57,1657
+monad,Monad,monad,344,1462
+pharaoh-exchange,Pharaoh Exchange,pharaoh-2,0,351
+renzo,Renzo,renzo,50,1067
+usd-ai,USD AI,chip-2,2,1097
+aave,Aave,aave,4,3216
+nest,nest,nest-2,2,309
+spectra,Spectra,spectra-finance,2,1872
+jito,Jito,jito-governance-token,2,1097
+x2y2,X2Y2,x2y2,721,722
+cyberconnect,CyberConnect,cyberconnect,72,1828
+kyan,Kyan,,4,1796
+benqi,Benqi,benqi,23,1462
+uxd,UXD,uxd-protocol-token,37,1316
+conic-finance,Conic Finance,conic-finance,6,2193
+ignore-fud,Ignore Fud,ignore-fud,1,2
+meridian,Meridian,meridian-mst,5,1828
+orderly,Orderly,orderly-network,203,2801
+jupiter,Jupiter,jupiter-exchange-solana,19,757
+shadow-exchange,Shadow Exchange,shadow-2,36,625
+internet-computer,Internet Computer,internet-computer,38,3527
+vvs-finance,VVS Finance,vvs-finance,2,1462
+spacefi,SpaceFi,spacefi-zksync,9,3289
+across,Across,across-protocol,45,1861
+land-bid,Land Bid,land-bid,1,66
+gearbox,Gearbox,gearbox,2,915
+tangible,Tangible,tangible,3,1463
+orca,Orca,orca,2,1876
+tensor,Tensor,tensor,3,1097
+optimism-foundation,Optimism Foundation,optimism,61,2651
+stella,Stella,alpha-finance,34,2193
+asymetrix-protocol,Asymetrix Protocol,asymetrix,2,1463
+alaya-ai,Alaya AI,alaya-ai,78,1462
+rocket-pool,Rocket Pool,rocket-pool,67,3305
+mineloot,MineLoot,mineloot,56,63
+moonwell,Moonwell,moonwell-artemis,60,1462
+stable,Stable,stable-2,72,1462
+sushi,Sushi,sushi,0,2044
+debridge,deBridge,debridge,14,1280
+celo,Celo,celo,469,10959
+immutablex,ImmutableX,immutable-x,43,1462
+plasma,Plasma,plasma,60,1097
+lighter,Lighter,lighter,2,1462
+zyberswap,ZyberSwap,zyberswap,1,773
+tranchess,Tranchess,tranchess,183,1556
+fast-token,Fast token,fasttoken,22,1036
+ore-protocol,ORE Protocol,ore,0,412
+zkswap-finance,zkSwap Finance,zkswap-finance,2,1645
+gunz,Gunz,gunz,72,1432
+euler,Euler,euler,1,1732
+portal,Portal,wormhole,84,1641
+hybra,Hybra,hybr,2,731
+dodo,DODO,dodo,3,1097
+golem-network,Golem Network,golem,2,3288
+stepn,Stepn,stepn,101,3076
+y2k-finance,Y2K Finance,y2k,3,1810
+arcium,Arcium,arcium,3,1645
+lombard,lombard,lombard,3,1462
+walrus-protocol,Walrus Protocol,walrus-2,133,2923
+flare,Flare,flare-networks,92,2923
+ipor-protocol,IPOR Protocol,,4,1828
+starknet-bridge,Starknet Bridge,starknet,96,2894
+eigencloud,EigenCloud,eigenlayer,25,1051
+aura,Aura,aura-finance,6,2741
+thorchain-dex,THORChain DEX,thorchain,50,2660
+kodiak,Kodiak,kodiak-finance,2,1097
+dymension,Dymension,dymension,2,1097
+meteora,Meteora,meteora,2,2193
+pareto,Pareto,idle,3,2158
+salty.io,Salty.IO,,3652,3654
+venice,Venice,venice-token,1,735
+redstone-finance,RedStone Finance,redstone-oracles,4,1465
+ronin-bridge,Ronin Bridge,ronin,38,3319
+frax-finance,Frax Finance,frax-share,301,1915
+canton,Canton,canton-network,825,1664
+pump,Pump,pump-fun,37,1463
+grass,Grass,grass,138,2193
+aptos,Aptos,aptos,120,3654
+curve-finance,Curve Finance,curve-dao-token,2,2238
+tezos,Tezos,tezos,49,3654
+omni-network,Omni Network,omni-network,5,1097
+resolv,Resolv,resolv,141,1278
+quai-network,Quai Network,quai-network,103,2193
+kwenta,Kwenta,kwenta,208,1450
+spcx,SPCX,spacex-bstocks-tokenized-stock,16,426
+claimrush,ClaimRush,,1,120
+stakewise,StakeWise,stakewise,2,1462
+godl-protocol,GODL protocol,godl-2,0,315
+equilibria,Equilibria,equilibria-finance,0,650
+sun,SUN,sun-token,1,1462
+humidifi,HumidiFi,humidifi,4,732
+chainflip,Chainflip,chainflip,1,1040
+stryke,Stryke,stryke,415,548
+centrifuge,Centrifuge,centrifuge-2,50,1523
+connex,Connex,connex,55,1219
+tectonic,Tectonic,tectonic,48,3654
+tron,Tron,tron,3,6682
+echelon-prime,Echelon Prime,echelon-prime,70,2088
+metars-go,Metars GO,metars-genesis,2,1097
+basic-attention,Basic Attention,basic-attention-token,2,3076
+resupply,Resupply,resupply,81,1828
+api3,Api3,api3,274,2125
+flowswap,FlowSwap,flow,6,3711
+velo-finance,Velo Finance,velo,9,1828
+bitcoin,Bitcoin,bitcoin,0,7098
+tornado-cash,Tornado Cash,tornado-cash,131,1802
+lido,Lido,lido-dao,1,2051
+mercury,Mercury,,1,8
+clearpool,Clearpool,clearpool,3,1827
+alex,ALEX,alexgo,5,1828
+numbers-protocol,Numbers Protocol,numbers-protocol,90,1736
+holdstation,Holdstation,holdstation,3,2193
+hyperswap,HyperSwap,hyperswap,2,366
+lfj,LFJ,joe,856,946
+layer3,Layer3,layer3,37,1462
+saucerswap,SaucerSwap,saucerswap,2,2193
+ens,ENS,ethereum-name-service,48,1462
+vana,Vana,vana,58,1828
+desk,DESK,hmx,6,1462
+dune-protocol,Dune Protocol,,9,9
+overnight,overnight,,4,915
+gnd-protocol,GND Protocol,gnd-protocol,1,1829
+hedera,Hedera,hedera-hashgraph,28,2388
+spark,Spark,spark-2,2,1462
+uxlink,UXLINK,uxlink,10,915
+axie-infinity,Axie Infinity,axie-infinity,16,1981
+navi-protocol,NAVI Protocol,navi,2,1097
+beam,Beam,beam-2,1,1646
+murasaki,Murasaki,murasaki,3,1249
+common-wealth,Common Wealth,common-wealth,6,1006
+heyelsa,HeyElsa,elsa,3,1462
+deepbook,DeepBook,deep,3,2558
+river,River,river,192,1828
+clever,CLever,clever-token,32,3290
+streamflow,Streamflow,streamflow,8,1464
+apriori,aPriori,apriori,17,1463
+velodrome,Velodrome,velodrome-finance,3,1577
+vector-finance,Vector Finance,vector-finance,101,3045
+ton,TON,the-open-network,39,3032
+mantle-bridge,Mantle Bridge,mantle,1,1036
+based,Based,based-one,26,1097
+thorswap,THORSwap,thorswap,1,1462
+safe,Safe,safe,2,2923
+usual,Usual,usual,14,1340
+megaeth-bridge,MegaETH Bridge,megaeth,42,1462
+jones-dao,Jones DAO,jones-dao,2,1058
+stader,Stader,stader,120,3654
+kinetiq,Kinetiq,kinetiq,25,1067
+bouncebit,BounceBit,bouncebit,41,3654
+myria,Myria,myria,7,4385
+arbitrum-exchange,Arbitrum Exchange,arbitrum-exchange,1,1098
+dinero,Dinero,dinero-2,16,3653
+ankr,Ankr,ankr,5,1554
+exactly,Exactly,exa,2,1778
+layerzero,LayerZero,layerzero,26,1097
+memecore,MemeCore,memecore,75,2345
+xai-bridge,XAI Bridge,xai-blockchain,5,1649
+celestia,Celestia,celestia,1208,3472
+helium-network,Helium Network,helium,35,18264
+cetus,Cetus,cetus-protocol,44,1462
+justlend,JustLend,just,3,1097
+acala,Acala,acala,91,2821
+plume-mainnet,Plume Mainnet,plume,3,1097
+camelot,Camelot,camelot-token,2,1097
+maha.xyz,MAHA.xyz,mahadao,2,3623
+vela-exchange,Vela Exchange,vela-token,2,7306
+berachain,Berachain,berachain-bera,601,1112
+pudgy-penguins,Pudgy Penguins,pudgy-penguins,2,1462
+truefi,TrueFi,truefi,10,1097
+falcon-finance,Falcon Finance,falcon-finance-ff,82,1432
+blur,Blur,blur,5,1463
+aerodrome,Aerodrome,aerodrome-finance,1,1123
+zora-protocol,ZORA Protocol,zora,49,1634
+iota,IOTA,IOTA,106,1471
+bidgrid,BidGrid,,1,46
+rhea-finance,Rhea Finance,rhea-2,3,1097
+maia-dao-ecosystem,Maia DAO Ecosystem,maia,101,710
+layerbank,LayerBank,lineabank,2,1838
+forta,Forta,forta,392,3095
+polygon-bridge,Polygon Bridge,polygon-ecosystem-token,13,2739
+movement,Movement,movement,60,1828
+aethir,Aethir,aethir,5,1645
+pyth,Pyth,pyth-network,5,1277
+hyphen,Hyphen,biconomy,48,1432
+grvt,Grvt,grvt,45,1432
+turtle-club,Turtle Club,turtle-4,3,1462
+fx-protocol,fx Protocol,fxn-token,49,17898
+balancer,Balancer,balancer,1614,2284
+suilend-protocol,Suilend Protocol,suilend,1,1462
+rain,Rain,rain,385,385
+osmosis-dex,Osmosis DEX,osmosis,3,10228
+agility-lsd,Agility LSD,agility,1,1098
+plexus,PLEXUS,plexus-app,4,1462
+morpho,Morpho,morpho,4,2514
+synthswap,Synthswap,synthswap,2,1098
+slvr,SLVR,,1,82
+lybra-finance,Lybra Finance,lybra-finance,5,922
+sui-foundation,Sui Foundation,sui,294,2587
+moonbeam,Moonbeam,moonbeam,115,1894
+oasys,Oasys,oasys,3,2193
+solayer,Solayer,solayer,18,1462
+gmx,GMX,gmx,2,1895
+arbitrum-foundation,Arbitrum Foundation,arbitrum,74,1487
+rarible,Rarible,rarible,202,1405
+benddao,BendDAO,benddao,3,1828
+polkadot-treasury,Polkadot Treasury,polkadot,6,5018
+cbrs,CBRS,cerebras-bstocks-tokenized-stock,11,180
+magic-eden,Magic Eden,magic-eden,84,1462
+superrare,SuperRare,superrare,49,1463
+cellana-finance,Cellana Finance,cellena-finance,24,732
+world-of-dypians,World of Dypians,world-of-dypians,6,1462
+cowswap,CoWSwap,cow-protocol,6,1462
+zinc,ZINC,zinc-2,0,85
+axelar-network,Axelar Network,axelar,50,1553
+ramsesx,RamsesX,ramses,34,324
+pendle,Pendle,pendle,8,1983
+perpetual-protocol,Perpetual Protocol,perpetual-protocol,18,1290
+the-graph,The Graph,the-graph,19,3654
+manta-pacific,Manta Pacific,manta-network,32,2192
+drift,Drift,drift-protocol,3,1827
+yearn,Yearn,yearn-finance,2,1484
+quickswap,Quickswap,quickswap,1,1406
+velora,Velora,velora,48,1463
+fei-protocol,Fei Protocol,tribe-2,5,1827
+abracadabra,Abracadabra,spell-token,1,1892
+zksync-era,zkSync Era,zksync,37,1462
+avalanche,Avalanche,avalanche-2,52,3742
+superfarm,SuperFarm,superfarm,4,1097
+stakestone,StakeStone,stakestone,61,1858
+raydium,Raydium,raydium,2,1100
+credbull,Credbull,credbull,97,1859
+core-bridge,CORE Bridge,coredaoorg,81,29586
+ondo-finance,Ondo Finance,ondo-finance,5,1828
+injective-orderbook,Injective Orderbook,injective-protocol,25,1189
+scallop,Scallop,scallop-2,62,1858
+hyperliquid,Hyperliquid,hyperliquid,12,670
+kaito,Kaito,kaito,43,1432
+canto,Canto,canto,121,4020
+bluefin,Bluefin,bluefin,3,1828
+hop-protocol,Hop Protocol,hop-protocol,3,1463
+morpheusai,MorpheusAI,morpheusai,16,5835
+backpack,Backpack,backpack,1,1
+convex-finance,Convex Finance,convex-finance,1962,1961
+silo-finance,Silo Finance,silo-finance-2,5,1585
+fake-world-assets,Fake World Assets,fake-world-assets,1,75
+sonic,Sonic,sonic-3,146,6941
+uwu-lend,UwU Lend,uwu-lend,2,1462
+limitless-exchange,Limitless Exchange,limitless-3,32,1097
+ribbon-finance,Ribbon Finance,ribbon-finance,5,1461
+edgex,edgeX,edgex,37,1432
+gaib,GAIB,gaib,3,1828
+worldcoin,Worldcoin,worldcoin-wld,5,5480
+doublezero,DoubleZero,doublezero,2,1462
+b2-buzz,B2 Buzz,bsquared-network,53,2882
+virtuals-protocol,Virtuals Protocol,virtual-protocol,1,1
+stonx,STONX,,2,102
+pharaoh-legacy,Pharaoh Legacy,,1,679
+uniswap,Uniswap,uniswap,1,2227
+dfx-finance,DFX Finance,dfx-finance,3,2923
+minebean,MineBean,minebean,0,216
+qidao,QiDao,qi-dao,3,1098
+data-network,Data Network,story-2,2,1645
+dydx,dYdX,dydx-chain,39,1794
+geodnet,Geodnet,geodnet,1334,1336
+pharos,Pharos,pharos-network,2,1827
+ethena,Ethena,ethena,12,1494
+valas-finance,Valas Finance,valas-finance,60,1828
+quantixai,QuantixAI,quantixai,25,732
+pinksale,PinkSale,pinksale,46,2923
+jade,Jade,jade-protocol-2,0,154
+sei,Sei,sei-network,180,3654
+blackhole,Blackhole,blackhole,0,439
+solstice,Solstice,solstice,2,1097
+binance-smart-chain,Binance Smart Chain,binancecoin,42,3353
+merit-circle,Merit Circle,merit-circle,3,1645
+mode-bridge,Mode Bridge,mode,3,1097
+flowr,flowr,,1,19
+tokenlon,Tokenlon,tokenlon,1,2105
+bittensor,Bittensor,bittensor,12,17787
+moca-network,Moca Network,mocaverse,4,1462
+official-trump,Official Trump,official-trump,4,1098
+whitebit,WhiteBIT,whitebit,10,1318
+hashflow,Hashflow,hashflow,151,2194
+apecoin,ApeCoin,apecoin,84,1462
+sophon-bridge,Sophon Bridge,sophon,4,1827
+cap,cap,cap-4,37,1462
+prisma-finance,Prisma Finance,prisma-governance-token,8,1457
+babylon-protocol,Babylon Protocol,babylon,3,1462
+pea,PEA,,1,43
+zest,Zest,zest-protocol,3,1462
+xdc-network,XDC Network,xdce-crowd-sale,18,6576
+ether.fi,ether.fi,ether-fi,6,1098
+solv-protocol,Solv Protocol,solv-protocol,49,1493
+etherex,Etherex,etherex,50,414
+up,up,up-2,1,77
+citrea-staking,Citrea Staking,citrea,2,1462
+metis,Metis,metis-token,19,3655
+peaq,peaq,peaq-2,61,6242
+onchain-trade,Onchain Trade,onchain-trade-protocol,2,1828
+pancakeswap,PancakeSwap,pancakeswap-token,231,1611
+fluid,Fluid,instadapp,120,1879
+kamino,Kamino,kamino,6,1097
+venus,Venus,venus,2134,2193
+redbelly-network,Redbelly Network,redbelly-network-token,37,1096
+thena,THENA,thena,197,1389
+rainbow,Rainbow,rainbow-3-2,37,1462
+woofi,WOOFi,woo-network,4,1521
+big-time,Big Time,big-time,51,4070
+stargate-finance,Stargate Finance,stargate-finance,1653,1657
+compound-finance,Compound Finance,compound-governance-token,42,1792
+goldfinch,Goldfinch,goldfinch,2,1462
+contango,Contango,contango,3,1279
+radiant,Radiant,radiant-capital,2,1919
+neverland,Neverland,pixie-dust,2,914
+carv,CARV,carv,77,1432
+flowx-finance,FlowX Finance,flowx-finance,40,1188
+baseswap,BaseSwap,baseswap,1,732
+mantra-dao,MANTRA DAO,mantra-dao,6,1827
+pike,Pike,pike-finance,47,1463
+liquity,Liquity,liquity,1990,2004
+saga,Saga,saga-2,2,1097
+yield-basis,Yield Basis,yield-basis,4,761
+memecoin,Memecoin,memecoin-2,4,1442
+zealousswap,ZealousSwap,zeal,17,3288
+sanctum,Sanctum,sanctum-2,5,1097
+zetachain,ZetaChain,zetachain,48,1462
+infrared-finance,Infrared Finance,infrared-finance,2,1097
+litecoin,Litecoin,litecoin,4,5773
+arkham,Arkham,arkham,2,2558
+maple-finance,Maple Finance,syrup,1,720
+melania-meme,Melania Meme,melania-meme,14,428
