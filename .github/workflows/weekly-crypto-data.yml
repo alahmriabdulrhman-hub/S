@@ -1,0 +1,32 @@
+# تحديث أسبوعي لبيانات بوت التداول (يشتغل كل أحد 06:07 بتوقيت السعودية).
+# يحدّث فرع crypto-data فقط، وما يلمس ملفات المشروع في هذا الفرع.
+name: weekly-crypto-data
+on:
+  schedule:
+    - cron: "7 3 * * 0"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/weekly-crypto-data.yml]
+permissions:
+  contents: write
+concurrency:
+  group: crypto-data
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: crypto-data }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python update.py
+      - run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add -A data spot funding ann UPDATES.log
+          git commit -m "تحديث أسبوعي للبيانات $(date -u +%F)" || echo "no changes"
+          git pull --rebase origin crypto-data || true
+          git push origin crypto-data
