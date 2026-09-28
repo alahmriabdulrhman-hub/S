@@ -15,8 +15,10 @@ jobs:
         with: { ref: crypto-data }
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: python fetch7.py | tee fetch7.log
-      - run: |
+      - run: set -o pipefail; python fetch7.py 2>&1 | tee fetch7.log
+      - if: always()
+        run: |
+          mkdir -p ulp; touch unlock_map.json
           git config user.name "data-bot"
           git config user.email "data-bot@users.noreply.github.com"
           git add ulp unlock_map.json fetch7.log
