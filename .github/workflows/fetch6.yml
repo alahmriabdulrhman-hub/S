@@ -1,0 +1,25 @@
+name: fetch-unlocks
+on:
+  push:
+    branches: [crypto-data]
+    paths: [fetch6.py, .github/workflows/fetch6.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: crypto-data }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python fetch6.py | tee fetch6.log
+      - run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add unlocks fetch6.log
+          git commit -m "مواعيد فك القفل" || echo "no changes"
+          git pull --rebase origin crypto-data || true
+          git push origin crypto-data
