@@ -1,0 +1,6 @@
+binance 48 950
+binance 161 300
+binance 49 1350
+binance 50 0
+FAIL https://api-manager.upbit.com/api/v1/announcements?os=web&page=1&per_page=50&category=trade HTTP Error 403: Forbidden
+upbit 0
